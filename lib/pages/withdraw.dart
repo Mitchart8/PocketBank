@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+//import 'navigation.dart'; // Import the navigation file - it refused to work
+
 
 // Defining the WithdrawPage class
 class WithdrawPage extends StatefulWidget {
@@ -109,7 +111,9 @@ class _WithdrawPageState extends State<WithdrawPage> {
                 padding: const EdgeInsets.symmetric(horizontal: 32.0, vertical: 16.0), // Padding inside the button
               ),
               child: Text('Withdraw'),
+              
             ),
+           
           ],
         ),
       ),

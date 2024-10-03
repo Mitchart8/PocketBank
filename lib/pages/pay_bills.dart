@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pocket_banking/services/m_pesa_service.dart';
+
+//import 'package:pocket_banking/services/m_pesa_service.dart';
 
 // Defining the PayBillsPage class, which is a StatefulWidget
 class PayBillsPage extends StatefulWidget {
@@ -10,7 +11,7 @@ class PayBillsPage extends StatefulWidget {
 }
 
 class _PayBillsPageState extends State<PayBillsPage> {
-  final MpesaService _mpesaService = MpesaService();
+ // final MpesaService _mpesaService = MpesaService();
 
   // Controllers to handle input for the bill number, account number, and amount
   final TextEditingController billNumberController = TextEditingController();

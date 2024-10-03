@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+//import 'navigation.dart'; // Import the navigation file
+
 
 // Defining the DepositPage class
 class DepositPage extends StatefulWidget {

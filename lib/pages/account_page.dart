@@ -1,4 +1,5 @@
-import 'package:flutter/material.dart'; // Importing Flutter material package for UI components
+import 'package:flutter/material.dart'; // Importing Flutter material package for UI compone
+
 
 // AccountPage is a StatelessWidget that represents the account overview screen
 class AccountPage extends StatelessWidget {

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart'; // Import Firebase Auth
 
+
+
 // Defining the RegisterPage class
 class RegisterPage extends StatefulWidget {
   @override

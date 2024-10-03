@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart'; // Import Firebase Auth
+//import 'navigation.dart'; // Import the navigation file
+
 
 // Defining the LoginPage class
 class LoginPage extends StatefulWidget {
